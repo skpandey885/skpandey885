@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **skpandey885@gmail.com**
 
-- ⚡ Fun fact: **I Have Good Sense Of Humour!**
+- ⚡ Fun fact: **Always Ready To Learn!**
 
 
 <h3 align="left">Languages and Tools:</h3>
