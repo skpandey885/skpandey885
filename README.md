@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **skpandey885@gmail.com**
 
-- ⚡ Fun fact: **I Have Good Sense Of Humour!**
+- ⚡ Fun fact: **Java And JavaScript Are Not Same!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
