@@ -7,6 +7,7 @@
 
 - ⚡ Fun fact: **Java And JavaScript Are Not Same! 😂**
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/skpandey885" target="_blank" ><img align="center" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" height="35" width="40" /></a>
