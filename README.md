@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin!</h1>
 <h3 align="center">Always A Learner...</h3>
 
-- 🌱 I’m currently learning: **Java, Full Stack and iOS Development**
+- 🌱 I’m currently learning: **Java, FrontEnd and iOS Development**
 
 - 📫 How to reach me **skpandey885@gmail.com**
 
