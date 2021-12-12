@@ -10,12 +10,12 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/skpandey885" target="_blank" ><img align="center" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" height="35" width="40" /></a>
-<a href="https://stackoverflow.com/users/15839659" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" height="35" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/skpandey885" target="_blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"  height="35" width="40" /></a>
-<a href="https://instagram.com/iamsachin_47" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" height="35" width="40" /></a>
 <a href="https://www.hackerrank.com/skpandey885" target="_blank"><img align="center" src="https://www.iconfinder.com/icons/4373234/download/png/64" height="35" width="40" /></a>
-<a href="https://www.hackerearth.com/@skpandey885" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" height="35" width="40" /></a>
+  <a href="https://linkedin.com/in/skpandey885" target="_blank" ><img align="center" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" height="35" width="40" /></a>
+  <a href="https://leetcode.com/skpandey885/" target="_blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="35" width="40" /></a>
+  
+
 
 </p>
 
