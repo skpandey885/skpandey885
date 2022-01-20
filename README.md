@@ -12,7 +12,7 @@
 
 - 👨‍💻 Wanna see my portfolio? [skpandey885.me](skpandey885.me)
 
-- 💬 Ask me about **iOS, Web, Data Structures, Algorithm**
+- 💬 Ask me about **iOS, Web, Data Structures, Algorithms**
 
 - 📫 Ping me @ **skpandey885@gmail.com**
 
