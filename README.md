@@ -7,9 +7,8 @@
 
 <p align="center"> <a href="https://twitter.com/iamsachin_47" target="blank"><img src="https://img.shields.io/twitter/follow/iamsachin_47?logo=twitter&style=for-the-badge" alt="iamsachin_47" /></a> </p>
 
-- 🔭 I’m currently learning **Data Structures and Algorithm**
 
-- 🌱 I’m currently learning **Full Stack Development, iOS Development**
+- 🌱 I’m currently learning **Full Stack Development, iOS Development..**
 
 - 👨‍💻 Wanna see my portfolio? [skpandey885.me](skpandey885.me)
 
