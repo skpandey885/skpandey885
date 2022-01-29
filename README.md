@@ -9,8 +9,8 @@
 
 
 - 🌱 I’m currently learning **Full Stack Development, iOS Development..**
-
-- 👨‍💻 Wanna see my portfolio? [skpandey885.me](https://skpandey885.me)
+<!-- 
+- 👨‍💻 Wanna see my portfolio? [skpandey885.me](https://skpandey885.me) -->
 
 - 💬 Ask me about **iOS, Web, Data Structures, Algorithms**
 
