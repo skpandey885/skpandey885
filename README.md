@@ -2,7 +2,7 @@
 <h3 align="center">an iOS Developer, open-source enthusiast and competitive programmer  👀</h3>
 
 <hr>
-
+<a href="https://github.com/skpandey885/github-readme-activity-graph"><img alt="Sachin's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=skpandey885&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
 <hr>
 <p align="center"> <a href="https://twitter.com/iamsachin_47" target="blank"><img src="https://img.shields.io/twitter/follow/iamsachin_47?logo=twitter&style=for-the-badge" alt="iamsachin_47" /></a> </p>
 
