@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">an iOS Developer, Blockchain Developer, open-source enthusiast and competitive programmer  👀</h3>
+<h3 align="center">a Web Developer, Blockchain Developer, open-source enthusiast and competitive programmer  👀</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skpandey885&label=Profile%20views&color=1c8b0e&style=flat" alt="kaal-coder" /> </p>
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400px" height="250" />
@@ -11,11 +11,10 @@
 <p align="center"> <a href="https://twitter.com/iamsachin_47" target="blank"><img src="https://img.shields.io/twitter/follow/iamsachin_47?logo=twitter&style=for-the-badge" alt="iamsachin_47" /></a> </p>
 
 
-- 🌱 I’m currently learning **Blockchain Development, iOS Development..**
 <!-- 
 - 👨‍💻 Wanna see my portfolio? [skpandey885.me](https://skpandey885.me) -->
 
-- 💬 Ask me about **iOS, Web, Data Structures, Algorithms**
+- 💬 Ask me about **Web Development, Data Structures, Algorithms**
 
 - 📫 Ping me @ **skpandey885@gmail.com**
 
