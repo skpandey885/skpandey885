@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">a Web Developer, Blockchain Developer, open-source enthusiast and competitive programmer  👀</h3>
+<h3 align="center">a Web Developer, Blockchain Developer & open-source enthusiast👀</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skpandey885&label=Profile%20views&color=1c8b0e&style=flat" alt="kaal-coder" /> </p>
+<!-- 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400px" height="250" />
+-->
 <br>
 <!--  <hr>
 <a href="https://github.com/skpandey885/github-readme-activity-graph"><img alt="Sachin's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=skpandey885&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
